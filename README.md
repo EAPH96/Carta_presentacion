@@ -31,4 +31,7 @@ Estoy entusiasmado por seguir aprendiendo y enfrentar nuevos desafíos en el cam
  - C# (1 año).
  - Mongo DB (Básico).
  - Metodologías ágiles.
+ - Uso de Software de control de versiones (Git).
 
+## Idiomas
+ - Inglés, Intermedio/Avanzado (B2).
