@@ -14,3 +14,21 @@ Estoy entusiasmado por seguir aprendiendo y enfrentar nuevos desafíos en el cam
  - [Tableau Desktop Specialist](https://www.credly.com/badges/1a27b242-bbdc-4a83-8195-78a822a4de05/linked_in_profile)
  - [Alteryx Designer Core Certification](https://www.credly.com/badges/ce94eda8-c528-420c-8067-5d98c6d88837/linked_in_profile)
 
+
+## Soft Skills
+ - Empático.
+ - Perseverante.
+ - Resiliente.
+ - Responsable.
+ - Alto grado de compromiso.
+ - Aprendizaje continuo.
+
+
+## Hard Skills
+ - Python (2 años)
+ - SQL (2 años).
+ - Java (2 años).
+ - C# (1 año).
+ - Mongo DB (Básico).
+ - Metodologías ágiles.
+
