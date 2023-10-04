@@ -34,4 +34,4 @@ Estoy entusiasmado por seguir aprendiendo y enfrentar nuevos desafíos en el cam
  - Uso de Software de control de versiones (Git).
 
 ## Idiomas
- - Inglés, Intermedio/Avanzado (B2).
+ - Inglés, Avanzado (B2).
